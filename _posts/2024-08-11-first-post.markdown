@@ -10,4 +10,5 @@ Some examples were
 <li>using "string.equals(anotherString)" instead of using "=="(I spent hours thinking why this one can not be solved, finally with setting up the code locally and debugging it, I figured it out.)</li>
 <li>using Collection.sort(list) for sorting a list</li>
 <li>using list.get(index) instead of using list[index]</li>
+<li>Is this blog a debugging rubber duck?</li>
 </ul>
