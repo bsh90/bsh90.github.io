@@ -12,7 +12,7 @@ categories: software development concepts
 1.1. **Singleton:** To have more control over global instances and also one instance for a class.
 ```
 public final class DatabaseConnection {
-    private static Singleton instance;
+    private static DatabaseConnection instance;
     public String value;
 
     private DatabaseConnection(String value) {
