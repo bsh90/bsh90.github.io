@@ -5,6 +5,8 @@ date:   2026-09-14
 categories: software development concepts
 ---
 
+This post will be completed gradually.
+
 1. **Creational patterns**
 2. **Structural patterns**
 3. **Behavioral patterns**
