@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Backend engineer learning Path"
+title:  "My backend engineer learning path"
 date:   2026-09-14
 categories: software development concepts
 ---
